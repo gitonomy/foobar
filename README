@@ -1,5 +1,7 @@
 Foo Bar project
 ===============
 
-Work in progress
+To execute:
+
+$ php run.php
 
