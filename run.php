@@ -1,4 +1,3 @@
 <?php
 
-echo "Foo Bar\n";
-
+echo "Foo Bar project\n";
