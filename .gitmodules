@@ -1,0 +1,3 @@
+[submodule "barbaz"]
+	path = barbaz
+	url = git@github.com:gitonomy/barbaz.git
